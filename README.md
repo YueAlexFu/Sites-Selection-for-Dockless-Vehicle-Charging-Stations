@@ -6,3 +6,5 @@ Coordinate cannot be substitude to Euclidean distance equation. With that being 
 
 Alternative methodolgy:
 Genetic algorithm.
+
+Data source: https://data.louisvilleky.gov/dataset/dockless-vehicles
